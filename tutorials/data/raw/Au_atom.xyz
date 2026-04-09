@@ -1,0 +1,3 @@
+1
+Lattice="10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0" Properties=species:S:1:pos:R:3 REF_energy=3.8 pbc="F F F"
+Au       0.00000000       0.00000000       0.00000000
